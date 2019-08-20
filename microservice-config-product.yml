@@ -57,6 +57,10 @@ spring:
       max-total: 5
       max-wait-millis: 150
 
+
+emp:
+  name: zhangsan
+
 eureka:
   client:
     registerWithEureka: true
